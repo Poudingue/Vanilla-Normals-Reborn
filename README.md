@@ -1,8 +1,4 @@
-# mc_vanilla_like
-A repository with vanilla-like blocks for Minecraft, royalty-free and MIT licence.
+# vanilla normals reborn
 
-This pack is being designed with other fellow artists in mind, so whoever needs vanilla Minecraft assets but doesn't want to face legal issues can use this open-source, royalty-free, MIT-licenced, vanilla-like resource-pack.
-
-Feel free to suggest improvements and don't hesitate to use this pack how you see fit.
-
-Here is a gallery comparing Vanilla screenshots with mc_vanilla_like ones: https://imgur.com/a/wF8MeYc
+This resourcepack is based entirely on hardtop’s vanilla-like https://github.com/hardtopnet/mc_vanilla_like
+It’s meant to replace my previous pack "Vanilla Normals Renewed", to make sure I don’t get into legal trouble with Mojang
